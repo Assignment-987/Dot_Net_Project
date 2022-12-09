@@ -1,0 +1,5 @@
+c:\users\student\documents\visual studio 2012\Projects\BTech_4th_Year\BTech_4th_Year\bin\BTech_4th_Year.dll
+c:\users\student\documents\visual studio 2012\Projects\BTech_4th_Year\BTech_4th_Year\bin\BTech_4th_Year.pdb
+c:\users\student\documents\visual studio 2012\Projects\BTech_4th_Year\BTech_4th_Year\obj\Debug\BTech_4th_Year.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\BTech_4th_Year\BTech_4th_Year\obj\Debug\BTech_4th_Year.dll
+c:\users\student\documents\visual studio 2012\Projects\BTech_4th_Year\BTech_4th_Year\obj\Debug\BTech_4th_Year.pdb
